@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<databases defaultId="0" maxId="4">
+<db dialect="org.hibernate.dialect.PostgreSQLDialect" driver="org.postgresql.Driver" id="0" isolationLevel="" name="POSTGRESQL" poolSize="1" typeName="POSTGRESQL" url="jdbc:postgresql://ec2-54-235-94-36.compute-1.amazonaws.com:5432/d9jf18co22vu4o?user=ssmgvuvosruhsq&amp;password=606773266519ce8f413010c455659788dd6d4f8f02cc0f02d13cb095c8386368&amp;sslmode=require">
+<property name="user" value="ssmgvuvosruhsq"/>
+<property name="password" value="606773266519ce8f413010c455659788dd6d4f8f02cc0f02d13cb095c8386368"/>
+<metadata catalog="" schema="TO_BE_DEFINED" table-name-exclude="" table-name-include="" table-name-pattern="%" table-types="TABLE"/>
+</db>
+</databases>
