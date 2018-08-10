@@ -10,8 +10,6 @@
     }
   },
   "addons": [
-    "auth0",
-    "herokuconnect",
     "heroku-postgresql"
   ],
   "buildpacks": [
